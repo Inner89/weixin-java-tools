@@ -21,3 +21,5 @@ sw-pom.xml
 *.iml
 test-config.xml
 .idea
+
+.metadata/
